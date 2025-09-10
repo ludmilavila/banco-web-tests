@@ -30,7 +30,7 @@ consumindo a API [banco-api](https://github.com/juliodelimas/banco-api), utiliza
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/banco-web-tests.git
+   git clone https://github.com/ludmilavila/banco-web-tests.git
    cd banco-web-tests
    ```
 2. Instale as dependências:
@@ -77,4 +77,11 @@ Os comandos personalizados estão implementados em [`cypress/support/commands/`]
 
 ---
 
-Projeto desenvolvido para fins educacionais durante a Mentoria 2.0.
+## 🌸 Desenvolvido por:
+
+**Ludmila Ávila** - [GitHub](https://github.com/ludmilavila)
+[LinkedIn](https://www.linkedin.com/in/ludmilaavilamendes)
+
+---
+
+Projeto desenvolvido para fins de estudo durante a Mentoria 2.0.
